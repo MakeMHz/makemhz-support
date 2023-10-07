@@ -36,7 +36,7 @@ Leave Xbox on and continue to the next section.
 ### Step 1
 Download the latest 'Legacy - XboxHDMI' IPS file for your BIOS of choice.
 
-[BIOS Patches](/patches/README.md#xbox-kernel-patches-legacy---xboxhdmi)
+[BIOS Patches](https://github.com/MakeMHz/xbox-hd-plus/blob/master/patches/README.md#xbox-kernel-patches-legacy---xboxhdmi)
 
 ### Step 2
 Apply patch to BIOS by following the link to the patching guide for the corresponding BIOS patch. (Due to legal reasons we can not distribute the BIOS files)
