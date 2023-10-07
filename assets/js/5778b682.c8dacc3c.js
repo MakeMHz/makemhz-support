@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmakemhz_support=self.webpackChunkmakemhz_support||[]).push([[14],{7892:e=>{e.exports=JSON.parse('{"title":"Xbox","slug":"/category/xbox","permalink":"/category/xbox","navigation":{"previous":{"title":"Overview","permalink":"/"},"next":{"title":"Identifying Xbox Revision","permalink":"/xbox/identifying-xbox-revision/"}}}')}}]);
