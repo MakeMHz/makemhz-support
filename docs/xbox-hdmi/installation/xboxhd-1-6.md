@@ -50,7 +50,7 @@ If you have not recieved an order confirmation for the programming kit, to fix t
 ### Step 1 - Software Installation
 ![Do not skip this step!](./images/do-not-skip.png)
 
-Part of the XboxHD+ is the software side and it has its own guide [here](/manual/Installation%20XboxHD%2B%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
+Part of the XboxHD+ is the software side and it has its own guide [here](/xbox-hdmi/software/xboxhd). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
 
 :::caution
 The software guide must be followed for maximum display compatibility. Not doing so now will cause troubleshooting to be harder once the AV port is removed.

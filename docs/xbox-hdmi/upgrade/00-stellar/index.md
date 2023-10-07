@@ -33,7 +33,7 @@ Clean up the board and check for shorts between SDA, SCL, and GND. Re-install th
 
 Connect the Stellar link cable from the Project Stellar to the XboxHD+. It is recommended to connect the cable to Stellar while it's not on the pin header to avoid unnecessary stress on pin header.
 
-Project Stellar can now be installed. Project Stellar has it's own installation guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
+Project Stellar can now be installed. Project Stellar has it's own installation guide [here](/project-stellar/installation-guide).
 
 ## Closing Notes
 - The XboxHD+ app is no longer used once Project Stellar is installed and settings can be adjusted from StellarOS.

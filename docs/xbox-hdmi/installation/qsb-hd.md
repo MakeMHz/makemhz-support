@@ -24,7 +24,7 @@ Start by soldering each connection. After soldering the first connection use a p
 ### Xbox 1.0/1.1 Instructions
 Additionally, Xbox revisions 1.0 and 1.1 require that this point be bridged.
 
-[Identifying Xbox Revision](/manual/Identifying%20Xbox%20Revision.md)
+[Identifying Xbox Revision](/xbox/identifying-xbox-revision)
 
 ![QSB Installation Overview](images/QSB_Install_HD_1_0.png)
 

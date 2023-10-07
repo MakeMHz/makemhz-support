@@ -19,14 +19,14 @@ Check your kit for missing or damaged pieces before moving forwards.
 - 2x8 Gold Plated Pinheader
 
 ### Resources
-[Identifying Xbox Revision](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Identifying%20Xbox%20Revision.md)
+[Identifying Xbox Revision](/xbox/identifying-xbox-revision)
 
-[Initial Setup](Initial%20Setup.md)
+[Initial Setup](/project-stellar/initial-setup)
 
 ## Step 1 - Initial Setup
 :::info
 The initial setup process must be completed first and is provided as a seperate guide.
-[Initial Setup](Initial%20Setup.md)
+[Initial Setup](/project-stellar/initial-setup)
 :::
 
 ## Step 2 - LPC Pin Header
@@ -66,6 +66,6 @@ For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to
 ## Done
 If you have an HDMI kit, then you can use the links below to install those.
 
-[Stellar XboxHD+ Installation Guide 1.0 - 1.5](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.0%20-%201.5).md)
+[Stellar XboxHD+ Installation Guide 1.0 - 1.5](/xbox-hdmi/installation/stellar-xboxhd-1-0)
 
-[Stellar XboxHD+ Installation Guide 1.6](https://github.com/MakeMHz/xbox-hd-plus/blob/master/manual/Installation%20Manual%20(Stellar%20XboxHD%2B%20v2%201.6).md)
+[Stellar XboxHD+ Installation Guide 1.6](/xbox-hdmi/installation/stellar-xboxhd-1-6)

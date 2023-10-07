@@ -12,21 +12,21 @@ import DocCardList from "@theme/DocCardList";
   items={[
     {
       type: "link",
-      href: "/docs/cli",
+      href: "/category/xbox",
       label: "Xbox",
       description:
         "General Xbox documentation and support.",
     },
     {
       type: "link",
-      href: "/docs/internals",
+      href: "/category/project-stellar",
       label: "Project Stellar",
       description:
         "Project Stellar documentation and support.",
     },
     {
       type: "link",
-      href: "/docs/intro",
+      href: "/category/xboxhd",
       label: "XboxHD+",
       description:
         "XboxHDMI and XboxHD+ documentation and support.",

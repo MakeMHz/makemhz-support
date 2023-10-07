@@ -35,7 +35,7 @@ This guide also assumes that you watched the installation video linked above.
 This guide is for Xbox motherboard revisions 1.6 with a Xcalibur video encoder.
 
 ### Step 1 - Software Installation
-Part of the XboxHDMI is the software side and it has its own guide [here](/manual/Installation%20XboxHDMI%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
+Part of the XboxHDMI is the software side and it has its own guide [here](/xbox-hdmi/software/xboxhdmi). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
 
 ### Step 2 - Wire Prep
 It's imperative to cut each wire as close as possible to our recommendations, but not shorter. if additional wire is needed then make sure to use wire of similar quality and gauge.

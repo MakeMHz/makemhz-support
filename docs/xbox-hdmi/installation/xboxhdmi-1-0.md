@@ -35,10 +35,10 @@ This guide also assumes that you watched the installation video linked above.
 This guide is for Xbox motherboard revisions 1.0 - 1.5 with a Conexant or Focus encoder.
 
 ### Step 1 - Software Installation
-Part of the XboxHDMI is the software side and it has its own guide [here](/manual/Installation%20XboxHDMI%20Software.md). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
+Part of the XboxHDMI is the software side and it has its own guide [here](/xbox-hdmi/software/xboxhdmi). Make sure to follow the guide and verify the installation of the software and kernel patch before continuing.
 
 ### Step 2 - QSB Installation
-Xbox revisions 1.0 and 1.1 (Single row power supply connector and Conexant encoder) requires the installation of a QSB board. Follow the [Installation Manual QSB](Installation%20Manual%20QSB.md) first before continuing. (If you received a kit without the QSB and need one then contact support@makemhz.com or purchase one from [MakeMHz.com](https://makemhz.com))
+Xbox revisions 1.0 and 1.1 (Single row power supply connector and Conexant encoder) requires the installation of a QSB board. Follow the [Installation Manual QSB](/xbox-hdmi/installation/qsb) first before continuing. (If you received a kit without the QSB and need one then contact support@makemhz.com or purchase one from [MakeMHz.com](https://makemhz.com))
 
 ### Step 3 - Wire Prep
 It's imperative to cut each wire as close as possible to our recommendations, but not shorter. if additional wire is needed then make sure to use wire of similar quality and gauge.

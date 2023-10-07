@@ -38,7 +38,7 @@ This guide also assumes that you watched the installation video linked above.
 This guide is for Xbox motherboard revisions 1.6 with an Xcalibur video encoder.
 
 ### Step 1 - Project Stellar Installation
-The first step of install the Stellar XboxHD+ is installing and updating Project Stellar. Project Stellar has it's own guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
+The first step of install the Stellar XboxHD+ is installing and updating Project Stellar. Project Stellar has it's own guide [here](/project-stellar/installation-guide).
 
 **Make sure you're at least on firmware version v1.0.1 before continuing.**
 
