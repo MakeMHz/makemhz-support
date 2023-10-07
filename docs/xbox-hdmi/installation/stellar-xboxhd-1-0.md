@@ -39,7 +39,7 @@ This guide also assumes that you watched the installation video linked above.
 This guide is for Xbox motherboard revisions 1.0 - 1.5 with a Conexant or Focus encoder.
 
 ### Step 1 - Project Stellar Installation
-The first step of is installing and updating Project Stellar. Project Stellar has it's own guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
+The first step is installing and updating Project Stellar. Project Stellar has it's own guide [here](https://github.com/MakeMHz/project-stellar/blob/main/documentation/Installation%20Guide.md).
 
 :::danger
 Make sure you're at least on firmware version v1.0.1 before continuing.
