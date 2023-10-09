@@ -34,7 +34,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -47,7 +47,11 @@ const config = {
         },
         blog: false,
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: [
+            require.resolve('./node_modules/modern-normalize/modern-normalize.css'),
+            require.resolve('./node_modules/@ionic-internal/ionic-ds/dist/tokens/tokens.css'),
+            require.resolve('./src/styles/custom.scss'),
+          ]
         },
       }),
     ],
@@ -56,59 +60,148 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      metadata: [
+        { name: 'og:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
+        { name: 'twitter:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
+        {
+          name: 'twitter:card',
+          content: 'summary_large_image',
+        },
+        {
+          name: 'twitter:domain',
+          content: 'ionicframework.com',
+        },
+        {
+          name: 'twitter:site',
+          content: '@makemhz',
+        },
+        {
+          name: 'twitter:creator',
+          content: 'makemhz',
+        },
+        {
+          name: 'fb:page_id',
+          content: '1375324939177729',
+        },
+        {
+          name: 'og:type',
+          content: 'website',
+        },
+        {
+          name: 'og:site_name',
+          content: 'MakeMHz - Support and Documentation',
+        },
+      ],
+
       // Replace with your project's social card
       image: 'img/social-card.jpg',
       navbar: {
-        title: 'MakeMHz',
+        hideOnScroll: true,
         logo: {
           alt: 'MakeMHz Logo',
           src: 'img/logo.png',
         },
         items: [
           {
-            href: 'https://github.com/makemhz/makemhz-support',
-            label: 'GitHub',
+            type: 'doc',
+            docId: 'getting-started/overview',
+            label: 'Documentation',
+            position: 'left',
+          },
+          {
+            type: 'search',
             position: 'right',
           },
-        ],
-      },
-      footer: {
-        style: 'dark',
-        links: [
           {
-            title: 'Community',
+            label: 'Community',
+            position: 'right',
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.gg/9YcuDpY',
+                href: 'https://makemhz.com/blog',
+                label: 'Blog',
+                target: '_blank',
+                rel: null,
               },
               {
-                label: 'Twitter',
                 href: 'https://twitter.com/makemhz',
+                label: 'Twitter',
+                target: '_blank',
+                rel: null,
+              },
+              {
+                href: 'https://discord.gg/9YcuDpY',
+                label: 'Discord',
+                target: '_blank',
+                rel: null,
               },
             ],
+            className: 'navbar__link--community',
           },
           {
-            title: 'More',
+            label: 'Support',
+            position: 'right',
             items: [
               {
-                label: 'Store',
-                to: 'https://makemhz.com',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/makemhz/makemhz-support',
+                href: 'https://makemhz.com/pages/contact-us',
+                label: 'Customer Support',
+                target: '_blank',
+                rel: null,
               },
             ],
+            className: 'navbar__link--support',
+              },
+              {
+            type: 'html',
+            position: 'right',
+            value: '<div class="separator" aria-hidden></div>',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+            dropdownItemsBefore: [],
+            dropdownItemsAfter: [
+              {
+                href: 'https://ionicframework.com/translate',
+                label: 'Translate',
+                target: '_blank',
+                rel: null,
+              },
+            ],
+            className: 'icon-link language navbar__item',
+          },
+          {
+            href: 'https://twitter.com/makemhz',
+            position: 'right',
+            className: 'icon-link icon-link-mask icon-link-twitter',
+            'aria-label': 'Twitter',
+            target: '_blank',
+          },
+          {
+            href: 'https://discord.gg/9YcuDpY',
+            position: 'right',
+            className: 'icon-link icon-link-mask icon-link-discord',
+            'aria-label': 'Discord',
+            target: '_blank',
+          },
+          {
+            href: 'https://github.com/makemhz',
+            position: 'right',
+            className: 'icon-link icon-link-mask icon-link-github',
+            'aria-label': 'GitHub repository',
+            target: '_blank',
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} MakeMHz LLC. Built with Docusaurus.`,
       },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+
+  plugins: [
+    'docusaurus-plugin-sass',
+  ],
 };
 
 module.exports = config;
