@@ -21,6 +21,9 @@ const config = {
   organizationName: 'makemhz', // Usually your GitHub org/user name.
   projectName: 'makemhz-support', // Usually your repo name.
 
+  deploymentBranch: 'gh-pages', // The branch of the docs repo to deploy to
+  trailingSlash: false, // Set this to true if you are using GitHub pages
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -149,8 +152,8 @@ const config = {
               },
             ],
             className: 'navbar__link--support',
-              },
-              {
+          },
+          {
             type: 'html',
             position: 'right',
             value: '<div class="separator" aria-hidden></div>',
