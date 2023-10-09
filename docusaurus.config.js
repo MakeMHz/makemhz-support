@@ -64,8 +64,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       metadata: [
-        { name: 'og:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
-        { name: 'twitter:image', content: 'https://ionicframework.com/docs/img/meta/open-graph.png' },
+        { name: 'og:image', content: 'https://support.makemhz.com/img/social-card.jpg' },
+        { name: 'twitter:image', content: 'https://support.makemhz.com/img/social-card.jpg' },
         {
           name: 'twitter:card',
           content: 'summary_large_image',
