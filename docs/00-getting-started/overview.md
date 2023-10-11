@@ -8,6 +8,7 @@ import DocCardList from "@theme/DocCardList";
 
 ## Documentation
 
+
 <DocCardList
   items={[
     {
@@ -33,3 +34,8 @@ import DocCardList from "@theme/DocCardList";
     },
   ]}
 />
+
+## Need Help?
+Need further assistance? Connect with our community on our Discord server for guidance and support!
+
+[![Discord](./images/discord_button.png)](https://discord.gg/9YcuDpY)
