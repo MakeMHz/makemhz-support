@@ -20,7 +20,7 @@ If the drive isn't formatted, it won't appear under devices. To set up the drive
 After the drive loads, a window will appear prompting you to choose which partition to mount, as well as the virtual drive letter you'd like to assign to it.
 
 :::tip
-The [Overview](/project-stellar/user-guide/xfer-files/overview) section provides insights into the various partitions present on the Xbox hard drive.
+The [Hard Drive Partitions](/xbox/xbox-info/hdd-partitions) section provides insights into the various partitions present on the Xbox hard drive.
 :::
 
 ![FATXplorer](./images/fatxplorer_02.png)

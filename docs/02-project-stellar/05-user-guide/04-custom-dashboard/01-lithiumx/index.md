@@ -13,5 +13,6 @@ Extract the contents and transfer the contents to ``F:\Dashboard``.
 ![LithiumX](./images/github.png)
 
 ## Additional Resources
-* [Transfering Files](/project-stellar/user-guide/xfer-files)
+* [Transfering Files - StellarOS FTP](/project-stellar/user-guide/xfer-files/ftp)
+* [Transfering Files - FATXplorer](/project-stellar/user-guide/xfer-files/fatexplorer)
 * [LithiumX Website](./images/dash_main.jpg)

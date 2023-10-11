@@ -15,4 +15,5 @@ Custom dashboards must be installed to the ``F:\Dashboard\`` directory to automa
 LithiumX is an open source dashboard focused on being simple with a clean UI.
 
 ## Additional Resources
-* [Transfering Files](/project-stellar/user-guide/xfer-files)
+* [Transfering Files - StellarOS FTP](/project-stellar/user-guide/xfer-files/ftp)
+* [Transfering Files - FATXplorer](/project-stellar/user-guide/xfer-files/fatexplorer)
