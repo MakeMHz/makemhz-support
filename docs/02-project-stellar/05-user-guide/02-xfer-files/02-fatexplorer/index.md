@@ -31,6 +31,6 @@ When the drive partition is mounted, a Windows File Explorer window will pop up,
 ![FATXplorer](./images/fatxplorer_03.png)
 
 ## Wrapping Up
-After completing the process, go back to FATXplorer, choose ``Devices``, and then select ``Close All`` to disengage the drive.
+After completing the process, go back to FATXplorer, choose ``Devices``, and then select ``Close All`` to unmount the drive.
 
 ![FATXplorer](./images/fatxplorer_04.png)
