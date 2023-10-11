@@ -11,7 +11,7 @@ description: FATXplorer, developed by Eaton Works, offers a user-friendly interf
 After installing FATXplorer, launch the program and choose the connected hard drive from the dropdown options.
 
 :::tip
-If the drive isn't formatted, it won't appear under devices. To set up the drive, refer to the New Hard Drive guide.
+If the drive isn't formatted, it won't appear under devices. To set up the drive, refer to the [New Hard Drive](/project-stellar/user-guide/new-hdd/overview) guide.
 :::
 
 ![FATXplorer](./images/fatxplorer_01.png)
