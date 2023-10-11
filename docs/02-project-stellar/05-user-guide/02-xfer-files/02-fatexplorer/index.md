@@ -25,7 +25,7 @@ The [Overview](/project-stellar/user-guide/xfer-files/overview) section provides
 
 ![FATXplorer](./images/fatxplorer_02.png)
 
-## Transfering Files
+## Transferring Files
 When the drive partition is mounted, a Windows File Explorer window will pop up, allowing for file transfers.
 
 ![FATXplorer](./images/fatxplorer_03.png)
