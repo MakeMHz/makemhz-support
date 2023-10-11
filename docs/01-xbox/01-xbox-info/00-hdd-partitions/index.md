@@ -54,7 +54,7 @@ Most custom dashboards include several files besides ``default.xbe``. All these 
 :::
 
 #### Games
-Game backups are typically stored in a folder on the ``F Parition`` matching the ``F:\Game\<Game Name>`` schema.
+Game backups are typically stored in a folder on the ``F Parition`` matching the ``F:\Games\<Game Name>`` schema.
 
 ```
 F:\
