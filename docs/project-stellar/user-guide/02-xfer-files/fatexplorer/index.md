@@ -1,4 +1,5 @@
 ---
+description: FATXplorer, developed by Eaton Works, offers a user-friendly interface for mounting an Xbox hard drive on Windows
 sidebar_position: 2
 ---
 # FATXplorer

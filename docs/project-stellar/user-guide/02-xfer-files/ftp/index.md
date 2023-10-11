@@ -1,4 +1,5 @@
 ---
+description: StellarOS has a built-in FTP server inside. By booting into StellarOS, you can use an FTP client to connect and transfer files.
 sidebar_position: 1
 ---
 # StellarOS FTP
