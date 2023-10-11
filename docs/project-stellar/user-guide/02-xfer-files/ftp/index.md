@@ -42,13 +42,16 @@ After correctly setting up Filezilla, you can establish a connection to the Xbox
 
 ![Filezilla Screenshot](images/filezilla.png)
 
-
 ## Transfering Files
-Upon connecting via FTP, you'll encounter distinct folders representing each drive partition (C, E, F, and so on). Comprehensive details about these partitions can be found on the [Transfer Files - Overview](/project-stellar/user-guide/xfer-files/overview) page.
+Upon connecting via FTP, you'll encounter distinct folders representing each drive partition (C, E, F, and so on).
+
+:::tip
+Comprehensive details about these partitions can be found on the [Xbox Technical Info - Hard Drive Partitions](/xbox/xbox-info/hdd-partitions) page.
+:::
 
 Within Filezilla, you can conveniently drag and drop files either from your computer to the window on the right or vice versa, from the left side of the window.
 
 ## Additional Resources
-[FileZilla Client Tutorial (en)](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
-
-[FileZilla - Using](https://wiki.filezilla-project.org/Using)
+* [Xbox Technical Info - Hard Drive Partitions](/xbox/xbox-info/hdd-partitions)
+* [FileZilla Client Tutorial (en)](https://wiki.filezilla-project.org/FileZilla_Client_Tutorial_(en))
+* [FileZilla - Using](https://wiki.filezilla-project.org/Using)

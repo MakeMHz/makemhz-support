@@ -15,3 +15,6 @@ Transfer files over a network using an FTP client.
 ### FATXplorer
 [Guide](/project-stellar/user-guide/xfer-files/fatexplorer)<br />
 Transfer files via a computer directly to the hard drive. Super fast and recommended when transfering multiple games.
+
+## Additional Resources
+* [Xbox Technical Info - Hard Drive Partitions](/xbox/xbox-info/hdd-partitions)
