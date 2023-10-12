@@ -88,3 +88,6 @@ The goal right now is making sure all orders ship out and everything is 100% sta
 
 #### Can the xboxhd folder be removed?
 Yes, the XboxHD+ app and patches are no longer needed. It's probably best to delete as not to confuse someone else later on.
+
+#### How do I enable 128MB/256MB RAM support?
+Extended RAM support is turned off by default in ``v1.2.0``, but can be enabled by turning on ``Extended Retail PFN Support`` in StellarOS under the ``Enhancements`` tab.
