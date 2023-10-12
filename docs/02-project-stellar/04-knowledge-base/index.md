@@ -3,7 +3,7 @@ The knowledge base is a collection of information that hasn't quite found a plac
 
 ## General
 #### In-Game Reset Button Combo
-``Left Stick Button + Right Stick Button + Full Left Trigger + Full Right Trigger``
+``Full Left Trigger + Full Right Trigger + BACK + BLACK``
 
 #### Custom Dashboard Path
 ``E:\dashboard\default.xbe``
@@ -56,7 +56,7 @@ Be sure to check the diagnostic screen. A warning will be displayed if the custo
 
 ## Offline Firmware Updating
 For offline firmware updating, there are currently two options.
-- Via USB; follow the [Firmware Recovery](documentation/Firmware%20Recovery.md) guide.
+- Via USB; follow the [Firmware Recovery](/project-stellar/firmware-recovery) guide.
 - Via XBE; FTP the release ``StellarUpdateFW.xbe`` to your Xbox and use your custom dashboard of choice to launch it.
 
 ## Known Issues
