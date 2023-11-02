@@ -8,7 +8,7 @@ LithiumX is an open source dashboard focused on being simple with a clean UI.
 ## Installation
 Navigate to [https://github.com/Ryzee119/LithiumX/releases](https://github.com/Ryzee119/LithiumX/releases) and download ``LithiumX.zip``.
 
-Extract the contents and transfer the contents to ``F:\Dashboard``.
+Extract the contents and transfer the contents to ``E:\Dashboard``.
 
 ![LithiumX](./images/github.png)
 
