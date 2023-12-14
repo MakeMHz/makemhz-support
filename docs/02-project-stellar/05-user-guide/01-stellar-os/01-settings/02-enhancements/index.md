@@ -46,7 +46,7 @@ For consoles with CPU upgrades, this feature ensures the most recent microcode i
 Allows both retail and homebrew applications to tap into extra RAM resources.
 
 :::tip
-This option must be disabled to use the additional RAM installed on a modified system.
+This option must be enabled to use the additional RAM installed on a modified system.
 :::
 
 :::caution
