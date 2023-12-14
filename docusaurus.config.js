@@ -120,7 +120,7 @@ const config = {
             position: 'right',
             items: [
               {
-                href: 'https://makemhz.com/blog',
+                href: 'https://makemhz.com/blogs/news',
                 label: 'Blog',
                 target: '_blank',
                 rel: null,
