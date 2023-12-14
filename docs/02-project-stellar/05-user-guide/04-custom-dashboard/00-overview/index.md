@@ -6,7 +6,7 @@ However, with a modified setup, there's an option to integrate a custom dashboar
 ## Custom Dashboards
 
 :::tip
-Custom dashboards must be installed to the ``F:\Dashboard\`` directory to automatically boot on power up.
+Custom dashboards must be installed to the ``E:\Dashboard\`` directory to automatically boot on power up.
 :::
 
 ### LithiumX

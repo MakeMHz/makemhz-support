@@ -39,10 +39,10 @@ On systems that have been modified to include larger storage areas, extended par
 In general, files can be organized in any folder structure that seems logical. However, this guide will focus on naming conventions that are widely recognized and compatible with both Project Stellar and other homebrew applications.
 
 #### Custom Dashboard
-Project Stellar will attempt to boot a custom dashbaord located at ``F:\Dashboard\default.xbe`` on boot
+Project Stellar will attempt to boot a custom dashbaord located at ``E:\Dashboard\default.xbe`` on boot
 
 ```
-F:\
+E:\
   Dashboard\
     default.xbe
     <Additional dashboard files>...
@@ -50,7 +50,7 @@ F:\
 ```
 
 :::tip
-Most custom dashboards include several files besides ``default.xbe``. All these files must be moved to the ``F:\Dashboard`` directory, ensuring they are in the same location as ``F:\Dashboard\default.xbe``.
+Most custom dashboards include several files besides ``default.xbe``. All these files must be moved to the ``E:\Dashboard`` directory, ensuring they are in the same location as ``E:\Dashboard\default.xbe``.
 :::
 
 #### Games
