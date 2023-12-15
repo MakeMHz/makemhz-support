@@ -8,6 +8,14 @@ The knowledge base is a collection of information that hasn't quite found a plac
 #### Custom Dashboard Path
 ``E:\dashboard\default.xbe``
 
+## Additional Input Devices
+
+### Xbox One Controllers
+#### Controller Disconnects
+- You may need to reconnect Xbox One controllers each time the system resets its USB ports. Such resets can occur during system boot-up or reboot, when launching a new title, or if a game executes a soft-reset.
+- On some systems the current draw required to drive the Xbox One controller rumble can cause the controller to disconnect. Turning off rumble, using a higher quailty USB cable, or using batteries inside the controller can help with this issue.
+- Older controller firmware may cause issues. [Update your Xbox Wireless Controller](https://support.xbox.com/en-US/help/hardware-network/controller/update-xbox-wireless-controller)
+
 ## Hard Drive and Partitioning
 A small write up on drive paritioning can be found here from our [Project Stellar - Firmware Update 1.1.2](https://makemhz.com/blogs/news/project-stellar-firmware-update-1-1-2) update post.
 
