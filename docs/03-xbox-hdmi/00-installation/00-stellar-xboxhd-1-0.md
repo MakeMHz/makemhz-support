@@ -62,12 +62,12 @@ After cutting each wire, strip each side. It's recommended for the cleanest inst
   </tr>
   <tr>
     <th>Red Wire</th>
-    <td>4cm</td>
+    <td>4.5cm</td>
     <td>5V Connection</td>
   </tr>
   <tr>
     <th>Orange Wire</th>
-    <td>4cm</td>
+    <td>4.5cm</td>
     <td>SPDIF Connection</td>
   </tr>
 </table>
