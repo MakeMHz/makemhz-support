@@ -14,5 +14,5 @@ Install Guide: [XboxHD+ (Xbox 1.0 - 1.5)](/xbox-hdmi/installation/xboxhd-1-0)
 ![Xbox Revision 1.0 - 1.5](./images/legacy_install_1_0.png)
 
 ### Xbox Revision 1.6
-Install Guide: [XboxHD+ (Xbox 1.0 - 1.5)](/xbox-hdmi/installation/xboxhd-1-6)
+Install Guide: [XboxHD+ (Xbox 1.6)](/xbox-hdmi/installation/xboxhd-1-6)
 ![Xbox Revision 1.6](./images/legacy_install_1_6.png)
