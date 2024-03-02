@@ -1,5 +1,5 @@
 # XboxHD+ Legacy
-The XboxHD+ Legacy follows the XboxHD+ installation guide, expect for the alternative connects listed below for connecting the Legacy board.
+The XboxHD+ Legacy follows the XboxHD+ installation guide, except for the alternative connects listed below for connecting the Legacy board.
 
 :::danger
 Use 26AWG stranded wire for the 5V connection. The other connects can be made with wire-wrap.
