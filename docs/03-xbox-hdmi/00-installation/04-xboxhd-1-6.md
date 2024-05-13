@@ -82,7 +82,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
   <tr>
     <th>Paired Wire</th>
     <td>90mm</td>
-    <td>SMBus Connection</td>
+    <td> Connection</td>
   </tr>
 </table>
 
@@ -144,7 +144,7 @@ Connect each of the pre-cut wires according to the wire cut chart above. the wir
 
 ![Image of Wire connections](./images/Step4-Wire-Connections_16.jpg)
 
-#### SMBus Connections (SDA and SCL)
+#### SMBus Connections (SDA and SCL) - SKIP FOR XboxHD+ Legacy Installations
 Using the paired wire connect one wire to each side of the PIC16.
 
 ![Image of SMBus Connections](./images/Step4-SMBus_16.jpg)
