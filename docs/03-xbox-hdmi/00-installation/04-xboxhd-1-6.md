@@ -82,7 +82,7 @@ After cutting each wire, strip each side of the wires. It's recommended for the 
   <tr>
     <th>Paired Wire</th>
     <td>90mm</td>
-    <td> Connection</td>
+    <td>SMBus Connection</td>
   </tr>
 </table>
 
