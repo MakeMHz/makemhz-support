@@ -182,3 +182,18 @@ iframe {
 .cordova-ee-card p {
   margin: 1rem 0 0;
 }
+
+/* TODO: Resotre sticky header on sidebar */
+.navbar-sidebar__brand,
+.navbar-sidebar__items {
+  height: initial;
+}
+
+#__docusaurus .navbar-sidebar__brand .navbar__logo {
+  padding: 2rem 0;
+  max-width: 100%;
+}
+
+#__docusaurus .navbar-sidebar__brand .navbar__logo img {
+  max-height: 120px;
+}
