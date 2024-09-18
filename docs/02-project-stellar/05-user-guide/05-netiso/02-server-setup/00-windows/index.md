@@ -1,6 +1,6 @@
 # Windows PC
 
-## Custom Dashboards
+## Getting Started
 
 Press the ``Windows Key + R`` and type ``compmgmt.msc`` and click ``OK``.
 ![Screenshot](./images/screenshot_01.png)
