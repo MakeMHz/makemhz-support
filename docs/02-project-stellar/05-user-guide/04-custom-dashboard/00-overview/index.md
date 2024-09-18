@@ -1,4 +1,5 @@
 # Overview
+
 On the Xbox, the dashboard is the default application that starts up when no game is loaded into the system.
 
 However, with a modified setup, there's an option to integrate a custom dashboard. These custom dashboards, crafted by the community, come with an extensive array of features and enhancements.
