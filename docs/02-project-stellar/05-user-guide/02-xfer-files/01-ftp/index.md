@@ -3,22 +3,20 @@ description: StellarOS has a built-in FTP server inside. By booting into Stellar
 ---
 # StellarOS FTP
 
-
-![StellarOS Overview Screen](./images/stellar_overview.png)
+![FTP Server Screen](./images/stellar_ftp.png)
 
 ## Overview
-StellarOS has a built-in FTP server inside. By booting into StellarOS, you can use an FTP client to connect and transfer files.
+StellarOS has a built-in FTP server tool. By booting into StellarOS, you can use an FTP client to connect and transfer files.
 
-|          |      |
-|----------|------|
-| **Username** | xbox |
-| **Password** | xbox |
-| **Port**     | 21   |
+:::tip
+The FTP server has been moved to a dedicated built-in tool starting with firmware version 1.6.x,
+:::
 
-## Entering StellarOS
-The first step is to enter StellarOS. The Xbox console must be on and inside of StellarOS for the FTP server to function.
+## Launching StellarOS FTP Server
+The first step is to [enter StellarOS](/project-stellar/user-guide/stellar-os/entering-stellar-os).
+Once StellarOS is load the FTP server can be launched from the ``Tools`` page.
 
-[Entering Stellar](/project-stellar/user-guide/stellar-os/entering-stellar-os)
+![StellarOS Overview Screen](./images/stellar_overview.png)
 
 ## Installing an FTP Client
 We recommend the free FileZilla FTP client for its simplicity. However, if you have another FTP client you're fond of, you're welcome to use it. While this guide will center on FileZilla, the underlying principles should remain consistent across different clients!
@@ -26,6 +24,13 @@ We recommend the free FileZilla FTP client for its simplicity. However, if you h
 [![Filezilla Logo](images/filezilla_logo.png)](https://filezilla-project.org/)
 
 ## FTP Client Settings
+
+### Connection Settings
+|          |      |
+|----------|------|
+| **Username** | xbox |
+| **Password** | xbox |
+| **Port**     | 21   |
 
 ### Maximum Simultaneous Transfers
 StellarOS is optimized, and requires, maximum simultaneous transfers to be set to 1.
