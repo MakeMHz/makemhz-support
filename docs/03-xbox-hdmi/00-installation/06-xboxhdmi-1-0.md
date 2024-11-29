@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # XboxHDMI (Xbox 1.0 - 1.5)
 Installation guide for the XboxHDMI on Xbox revision 1.0 - 1.5.
 
@@ -111,35 +114,89 @@ After the flex is installed, the Xbox should still be bootable.
 - Pre-shape the flex. Gently shape the flex so it's close to the final shape before soldering. The flex must lay flat and properly aligned when installed.
 - Take your time!
 
-#### Important
-**Proper flex positioning and soldering is crucial to allow for good contact. Make sure your flex lies flat on the board, do not solder it on top of the encoder chip pins! Inspect all solder joints before continuing, make sure they are well-formed and do not touch each other.**
+:::caution
+Proper flex positioning and soldering is crucial to allow for good contact. Make sure your flex lies flat on the board, do not solder it on top of the encoder chip pins! Inspect all solder joints before continuing, make sure they are well-formed and do not touch each other.
+:::
 
-#### Warning!
-**There are multiple revisions of the XboxHD+ flex revision. Please pay close attention to the reference images below.**
+:::danger
+There are multiple revisions of the XboxHD+ flex revision. Please pay close attention to the reference images below.
+:::
+
+#### Flex Revisions
+
+<Tabs>
+<TabItem value="flex_rev_1" label="Flex Rev 4">
 
 **Completed Install**
 
-![Image of Flex Installed](./images/Step3-Flex-Installed.png)
+![Image of Flex Installed](./images/Step3-Flex-Installed_rev_4.png)
 
 **Overview View**
 
-![Image of Flex Board Layout](./images/Step3-Flex-Overview.png)
+![Image of Flex Board Layout](./images/Step3-Flex-Overview_rev_4.png)
 
 **Right Connections**
 
-![Image of Flex Board Layout](./images/Step3-Right.png)
+![Image of Flex Board Layout](./images/Step3-Right_rev_4.png)
 
 **Left Connections**
 
-![Image of Flex Board Layout](./images/Step3-Left.png)
-
-Flex rev 1-5 are the same on the left side.
+![Image of Flex Board Layout](./images/Step3-Left_rev_4.png)
 
 **Bottom Connections**
 
-![Image of Flex Board Layout](./images/Step3-Bottom.png)
+![Image of Flex Board Layout](./images/Step3-Bottom_rev_4.png)
 
-Flex rev 1-5 are the same on the bottom side.
+</TabItem>
+
+<TabItem value="flex_rev_5" label="Flex Rev 5">
+
+**Completed Install**
+
+![Image of Flex Installed](./images/Step3-Flex-Installed_rev_4.png)
+
+**Overview View**
+
+![Image of Flex Board Layout](./images/Step3-Flex-Overview_rev_5.png)
+
+**Right Connections**
+
+![Image of Flex Board Layout](./images/Step3-Right_rev_5.png)
+
+**Left Connections**
+
+![Image of Flex Board Layout](./images/Step3-Left_rev_5.png)
+
+**Bottom Connections**
+
+![Image of Flex Board Layout](./images/Step3-Bottom_rev_5.png)
+
+</TabItem>
+
+<TabItem value="flex_rev_6" label="Flex Rev 6" default>
+
+**Completed Install**
+
+![Image of Flex Installed](./images/Step3-Flex-Installed_rev_6.png)
+
+**Overview View**
+
+![Image of Flex Board Layout](./images/Step3-Flex-Overview_rev_6.png)
+
+**Right Connections**
+
+![Image of Flex Board Layout](./images/Step3-Right_rev_6.png)
+
+**Left Connections**
+
+![Image of Flex Board Layout](./images/Step3-Left_rev_6.png)
+
+**Bottom Connections**
+
+![Image of Flex Board Layout](./images/Step3-Bottom_rev_6.png)
+
+</TabItem>
+</Tabs>
 
 ### Step 7 - Aux Wires
 Start with connecting each of the pre-cut wires. The wires for 5V and SPDIF should lay flat across the motherboard running towards the right.
