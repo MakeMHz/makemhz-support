@@ -5,7 +5,13 @@ description: Formatting a hard drive with FATXplorer.
 ![FATXplorer](./images/fatxplorer_00.png)
 
 ## Overview
-[FATXplorer](https://fatxplorer.eaton-works.com/), developed by Eaton Works, offers a user-friendly interface for mounting an Xbox hard drive on Windows. Once you connect the hard drive to a PC, this tool facilitates easily formatting a hard drive along with mounting and file transfers.
+[FATXplorer](https://fatxplorer.eaton-works.com/)
+
+:::note
+This guide is an independent work intended to help users understand and operate the software. It was created without
+input or affiliation from the software's developer or publisher. All product names, logos, and trademarks are the
+property of their respective owners and are used here for reference purposes only.
+:::
 
 ## Formatting Tools
 Start by clicking on ``Formatting Tools`` and then choose ``Original Xbox HDD``.
@@ -19,8 +25,6 @@ Select the drive you wish to format and click ``Next``.
 
 ## BIOS Selection
 Select ``Stellar`` as the BIOS and click ``Next``.
-
-![FATXplorer](./images/fatxplorer_03.png)
 
 ## Configure Partitions
 Leave the default configuration and click ``Next``.
