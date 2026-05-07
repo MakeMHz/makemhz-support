@@ -1,3 +1,6 @@
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Installation Guide
 Installation guide for installing Project Stellar.
 
@@ -42,7 +45,16 @@ Installation of the pin header on a 1.6 revision motherboard requires that we so
 - Remove factory solder from the through holes.
 - Solder in the supplied LPC rebuild QSB while holding in place the pin header. Make sure to solder all of the points on the QSB to the motherboard.
 
+<Tabs groupId="stellar-rev">
+<TabItem value="stellar-plus" label="Stellar Plus">
+
+![LPC Rebuild Install](./images/lpc_rebuild_install_plus.png)
+</TabItem>
+<TabItem value="stellar" label="Stellar">
+
 ![LPC Rebuild Install](./images/lpc_rebuild_install.png)
+</TabItem>
+</Tabs>
 
 ## Step 3 - Easy D0
 For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to always boot from the LPC port. On the 1.6 motherboard, this is handled automatically by Project Stellar.
