@@ -65,12 +65,7 @@ For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to
 ![Easy D0](./images/easy_d0.png)
 ![Easy D0 Alignment](./images/easy_d0_alignment.png)
 
-## Step 4 - Wireless Flex
-
-:::note
-Skip this step when installing the original Project Stellar. The Wireless Flex is only used with Stellar Plus or the Upgrade kit.
-:::
-
+## Step 4 - Wireless Flex (Stellar Plus)
 The wireless flex installation points vary by motherboard version, so make sure you are following the correct layout
 for your console. Carefully compare the photo with your board before soldering.
 
@@ -117,7 +112,7 @@ Carefully insert the flex PCB into the FPC connector on Stellar Plus. Make sure 
 
 ![Wireless Flex Attach](./images/wireless_flex_attach.jpg)
 
-## Step 5 - Shielding Modification
+## Step 5 - Shielding Modification (Stellar Plus)
 
 Before reinstalling the motherboard, make a small modification to the Xbox RF shielding so the antenna can pass through.
 Use side cutters to remove the small metal tab shown in the image below.
@@ -132,13 +127,13 @@ and makes the installation easier.
 ## Step 6 - Mounting
 
 - Place the provided metal spacer over the PCB hole as shown.
-- **Connect Stellar Plus to the Xbox motherboard while the motherboard is still outside the console.** Insert the provided screw into
+- **Connect Project Stellar to the Xbox motherboard while the motherboard is still outside the console.** Insert the provided screw into
 the screw hole to help keep the spacer from sliding out while placing the motherboard back into the console shell.
 - Use the provided Phillips screw to mount Project Stellar. Do not over-tighten, the screw only needs to be lightly tightened.
 
 ![Mounting Stellar](./images/stellar_mount.png)
 
-## Step 7 - Antenna Routing
+## Step 7 - Antenna Routing (Stellar Plus)
 
 Carefully route the antenna cable between the IDE connector and the DVD power cable, then pass it through the opening in the RF
 shielding made in the previous step.
