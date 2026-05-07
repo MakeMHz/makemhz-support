@@ -65,9 +65,63 @@ For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to
 ![Easy D0](./images/easy_d0.png)
 ![Easy D0 Alignment](./images/easy_d0_alignment.png)
 
-## Step 4 - Mounting
+## Step 4 - Wireless Flex
+
+:::note
+Skip this step when installing the original Project Stellar. The Wireless Flex is only used with Stellar Plus or the Upgrade kit.
+:::
+
+The wireless flex installation points vary by motherboard version, so make sure you are following the correct layout
+for your console. Carefully compare the photo with your board before soldering.
+
+**Select the tab below that matches your Xbox motherboard revision before continuing.**
+
+<Tabs groupId="xbox-rev">
+<TabItem value="1" label="Xbox 1.0 - 1.1">
+
+![Wireless Flex](./images/wireless_flex_1_0.jpg)
+
+- **Position the Stellar Wireless flex cable and carefully align it with the board.** Confirm that all contact points are lined up
+correctly, and that each test pad matches the corresponding pad on the flex.
+- Position the 1.0 - 1.1 standby power flex cable and solder it into place.
+- **Optional, but highly recommended:** Add the minimum amount of solder needed to the large ground pad to firmly secure the wireless
+flex to the Xbox motherboard. Do not use too much solder. Excess solder can prevent the motherboard from sitting flat in the console shell.
+
+</TabItem>
+<TabItem value="2" label="Xbox 1.2 - 1.5">
+
+![Wireless Flex](./images/wireless_flex_1_2.jpg)
+
+- **Position the Stellar Wireless flex cable and carefully align it with the board.** Confirm that all contact points are lined up
+correctly, and that each test pad matches the corresponding pad on the flex.
+- Position the 1.2 - 1.5 standby power flex cable and solder it into place.
+- **Optional, but highly recommended:** Add the minimum amount of solder needed to the large ground pad to firmly secure the wireless
+flex to the Xbox motherboard. Do not use too much solder. Excess solder can prevent the motherboard from sitting flat in the console shell.
+
+</TabItem>
+<TabItem value="6" label="Xbox 1.6">
+
+![Wireless Flex](./images/wireless_flex_1_6.jpg)
+
+- **Position the Stellar Wireless flex cable and carefully align it with the board.** Confirm that all contact points are lined up
+correctly, and that each test pad matches the corresponding pad on the flex.
+- **Optional, but highly recommended:** Add the minimum amount of solder needed to the large ground pad to firmly secure the wireless
+flex to the Xbox motherboard. Do not use too much solder. Excess solder can prevent the motherboard from sitting flat in the console shell.
+
+</TabItem>
+</Tabs>
+
+---
+
+Carefully insert the flex PCB into the FPC connector on Stellar Plus. Make sure the flex is fully seated, straight, and aligned evenly with the connector before locking it in place.
+
+![Wireless Flex Attach](./images/wireless_flex_attach.jpg)
+
+## Step 5 - Mounting
 
 - Place the provided metal spacer over the PCB hole as shown.
+- **Connect Stellar Plus to the Xbox motherboard while the motherboard is still outside the console.** Insert the provided screw into
+the screw hole to help keep the spacer from sliding out while placing the motherboard back into the console shell.
 - Use the provided Phillips screw to mount Project Stellar. Do not over-tighten, the screw only needs to be lightly tightened.
 
 ![Mounting Stellar](./images/stellar_mount.png)
