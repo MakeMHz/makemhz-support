@@ -27,7 +27,7 @@ online update or offline XBE update method. It can also be updated directly to 2
 
 :::note
 The Stellar Wireless Upgrade Kit is paired to a single device.
-Once installed on a Project Stellar board, it cannot be transferred to another unit.
+Once installed on a Project Stellar board, the Wireless Upgrade cannot be transferred to another Project Stellar.
 :::
 
 ## Step 2 - Wireless Upgrade Flex
