@@ -31,7 +31,7 @@ The initial setup process must be completed first and is provided as a seperate 
 
 ## Step 2 - LPC Pin Header
 Project Stellar currently requires that at minimum a 2x7 pin header be installed on the LPC of the Xbox. It's recommended to install the included high-quality gold-plated 2x8 pin header if possible as future features may require the additional pins.
-![LPC Pin Header](./images/lpc_header.png)
+![LPC Pin Header](./images/lpc_header.jpg)
 
 ### Xbox Revisions 1.0 - 1.5
 - Locate the LPC header on the motherboard.
@@ -48,11 +48,11 @@ Installation of the pin header on a 1.6 revision motherboard requires that we so
 <Tabs groupId="stellar-rev">
 <TabItem value="stellar-plus" label="Stellar Plus">
 
-![LPC Rebuild Install](./images/lpc_rebuild_install_plus.png)
+![LPC Rebuild Install](./images/lpc_rebuild_install_plus.jpg)
 </TabItem>
 <TabItem value="stellar" label="Stellar">
 
-![LPC Rebuild Install](./images/lpc_rebuild_install.png)
+![LPC Rebuild Install](./images/lpc_rebuild_install.jpg)
 </TabItem>
 </Tabs>
 
@@ -62,8 +62,8 @@ For Xbox revisions 1.0 - 1.5 we must connect D0 to ground to force the system to
 - Align the Easy D0 QSB and tape down according to the reference images provided below.
 - Solder the QSB into place.
 
-![Easy D0](./images/easy_d0.png)
-![Easy D0 Alignment](./images/easy_d0_alignment.png)
+![Easy D0](./images/easy_d0.jpg)
+![Easy D0 Alignment](./images/easy_d0_alignment.jpg)
 
 ## Step 4 - Wireless Flex (Stellar Plus)
 The wireless flex installation points vary by motherboard version, so make sure you are following the correct layout
@@ -131,7 +131,7 @@ and makes the installation easier.
 the screw hole to help keep the spacer from sliding out while placing the motherboard back into the console shell.
 - Use the provided Phillips screw to mount Project Stellar. Do not over-tighten, the screw only needs to be lightly tightened.
 
-![Mounting Stellar](./images/stellar_mount.png)
+![Mounting Stellar](./images/stellar_mount.jpg)
 
 ## Step 7 - Antenna Routing (Stellar Plus)
 
