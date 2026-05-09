@@ -150,6 +150,6 @@ Remove the backing from the double-sided tape on the antenna, then secure the an
 ## Done
 If you have an HDMI kit, then you can use the links below to install those.
 
-[Stellar XboxHD+ Installation Guide 1.0 - 1.5](/xbox-hdmi/installation/stellar-xboxhd-1-0)
+[Stellar XboxHD+ Installation Guide 1.0 - 1.5](/stellar-xboxhd/installation/stellar-xboxhd-1-0)
 
-[Stellar XboxHD+ Installation Guide 1.6](/xbox-hdmi/installation/stellar-xboxhd-1-6)
+[Stellar XboxHD+ Installation Guide 1.6](/stellar-xboxhd/installation/stellar-xboxhd-1-6)
