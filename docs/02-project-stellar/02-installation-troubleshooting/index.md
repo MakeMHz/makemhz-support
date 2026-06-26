@@ -66,13 +66,13 @@ If the system is rebooting three times and flashes red and green then refer to [
 ## LPC Trace Diagrams
 
 ### 1.0 - 1.1
-[PNG Image](./images/lpc_traces_1_0.jpg)
+[PNG Image](./images/lpc_traces_1_0.png)
 ![LPC Trace Diagram](./images/lpc_traces_1_0.jpg)
 
 ### 1.2 - 1.5
-[PNG Image](./images/lpc_traces_1_2.jpg)
+[PNG Image](./images/lpc_traces_1_2.png)
 ![LPC Trace Diagram](./images/lpc_traces_1_2.jpg)
 
 ### 1.6
-[PNG Image](./images/lpc_traces_1_6.jpg)
+[PNG Image](./images/lpc_traces_1_6.png)
 ![LPC Trace Diagram](./images/lpc_traces_1_6.jpg)
