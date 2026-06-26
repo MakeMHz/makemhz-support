@@ -15,6 +15,24 @@ Below are a few common checks that can be checked first.
 When in doubt, a [Firmware Recovery](/project-stellar/firmware-recovery) via USB is always an option to make sure you're on the last firmware version.
 :::
 
+## LED Error Patterns
+
+Error states are shown as a repeating color pattern across all connected RGB LEDs; either on [Stellar RGB](/project-stellar/stellar-rgb/overview)
+or the onboard RGB LED on Stellar Plus. The four-color sequence below repeats continuously from the first LED through the last.
+
+🔴 Red &nbsp; 🟢 Green &nbsp; ⚫ Off
+
+| Error                | 1  | 2  | 3  | 4  |
+|-------               |----|----|----|----|
+| General Fault        | 🔴 | 🔴 | 🔴 | 🟢 |
+| XCODE Stalled        | 🔴 | 🟢 | 🔴 | 🟢 |
+| Kernel Missing       | 🔴 | 🔴 | 🟢 | 🟢 |
+| SDRAM Failed         | 🟢 | 🔴 | 🔴 | 🟢 |
+| FPGA Firmware Update | 🟢 | 🟢 | 🟢 | 🔴 |
+| XboxHD Firmware Bad  | 🔴 | 🟢 | 🟢 | 🔴 |
+| Fatal Error          | 🔴 | 🔴 | 🔴 | 🔴 |
+
+
 ## Common Issues
 
 ### KERNEL MISSING
