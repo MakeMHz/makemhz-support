@@ -33,6 +33,21 @@ or the onboard RGB LED on Stellar Plus. The four-color sequence below repeats co
 | Fatal Error          | 🔴 | 🔴 | 🔴 | 🔴 |
 
 
+## Self-Test
+Starting with firmware 2.0.1, a Self-Test tool is available on [stellar.makemhz.com](https://stellar.makemhz.com) to help verify that your installation
+is working correctly.
+
+- Connect Project Stellar to your computer via USB
+- Navigate to [stellar.makemhz.com](https://stellar.makemhz.com)
+- Click ``Connect via USB`` and select ``Project Stellar`` or ``Project Stellar Plus`` from the popup window
+- Click the **Self-Test** button
+
+The Self-Test checks FPGA firmware, external memory, StellarOS, the Stellar kernel, the retail kernel, etc. On Stellar Plus, it also checks ESP32 and wireless firmware.
+A green checkmark indicates the check passed; a grey icon indicates the check was skipped.
+
+![Web Self-Check](./images/web_self_check.jpg)
+
+
 ## Common Issues
 
 ### KERNEL MISSING
