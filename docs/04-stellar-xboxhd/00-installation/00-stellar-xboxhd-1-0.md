@@ -39,10 +39,11 @@ This guide also assumes that you watched the installation video linked above.
 This guide is for Xbox motherboard revisions 1.0 - 1.5 with a Conexant or Focus encoder.
 
 ### Step 1 - Project Stellar Installation
-The first step is installing and updating Project Stellar. Project Stellar has it's own guide [here](/project-stellar/installation-guide).
-
 :::danger
-Make sure you're at least on firmware version v1.0.1 before continuing.
+**Project Stellar must be installed and fully tested before you begin the Stellar XboxHD+ installation.**
+
+Complete the [Project Stellar Installation Guide](/project-stellar/installation-guide) first. Update to firmware **v1.0.1** or newer,
+then thoroughly test your system—boot games, verify video output, and confirm Stellar is working correctly—before continuing to Step 2.
 :::
 
 ### Step 2 - QSB Installation
