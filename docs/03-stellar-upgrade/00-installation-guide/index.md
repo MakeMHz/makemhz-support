@@ -19,7 +19,11 @@ Check your kit for missing or damaged pieces before moving forwards.
 ## Step 1 - Initial Setup
 This guide assumes that Project Stellar has already been installed and tested.
 
-Before installing the Wireless Upgrade Kit, update Project Stellar to firmware 2.0.0 or newer.
+:::warning
+Before installing the Stellar Wireless Upgrade, update Project Stellar to firmware **2.0.0** or newer.
+Fully test your system after updating and confirm everything works correctly before proceeding with any part
+of the Wireless upgrade installation.
+:::
 
 Project Stellar can be updated to firmware 1.9.0 first, then updated again to 2.0.x using the
 online update or offline XBE update method. It can also be updated directly to 2.0.x using the
